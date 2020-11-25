@@ -1,0 +1,12 @@
+[DEFAULT]
+#Color in process setting
+#ProcessColor=orange
+ProcessColor=green
+#ProcessColor=blue
+#ProcessColor=gray
+
+#Motion Detection Image, check cramp or another device over the spacer, base on edge percentage
+MotionDetect=0.005
+
+#Frame Filter, check how many frames static then take action
+FrameFilter=5
